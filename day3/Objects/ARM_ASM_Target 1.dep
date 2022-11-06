@@ -1,0 +1,2 @@
+Dependencies for Project 'ARM_ASM', Target 'Target 1': (DO NOT MODIFY !)
+F (.\arm_asm.s)(0x6358E534)(-mcpu=cortex-m3 --gdwarf-2 -mthumb-interwork -I"E:/嵌入式网课/hqyj-嵌入式2022/Level 09 ARM体系结构与接口技术/test_09/RTE" -IC:/Keil_v5/ARM/PACK/Keil/STM32F1xx_DFP/2.3.0/Device/Include --defsym __UVISION_VERSION=515 --defsym __GCC=1 --defsym __GCC_VERSION=461 --defsym STM32F10X_HD=1--MD ./objects/arm_asm.d -o ./objects/arm_asm.o)

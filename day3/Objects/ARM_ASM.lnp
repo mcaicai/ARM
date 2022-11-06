@@ -1,0 +1,1 @@
+-mcpu=cortex-m3 -mthumb-interwork,-Ttext=0x00000000 -o "./Objects/ARM_ASM.elf" "./objects/arm_asm.o" -nostartfiles -lm
